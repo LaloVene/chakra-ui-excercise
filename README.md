@@ -1,3 +1,8 @@
+# Chakra UI Excercise
+![image](https://user-images.githubusercontent.com/54692916/155847300-e64db66a-246c-41eb-8b69-6e96a05f214c.png)
+![image](https://user-images.githubusercontent.com/54692916/155847313-2ac2a0ac-bf34-4162-9738-59c5fb1742fa.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
